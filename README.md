@@ -1,0 +1,1 @@
+PrepPilot will be an AI study and interview-prep assistant that answers from your notes.
